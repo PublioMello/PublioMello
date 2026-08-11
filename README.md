@@ -59,4 +59,4 @@ Check out my repositories below for more projects and details about my work.
 
 I'm open to opportunities in **Front-End and Full-Stack Development** and always interested in building new projects and learning new technologies.
 
-[LinkedIn](SEU_LINKEDIN) · [Portfolio](SEU_PORTFOLIO)
+[LinkedIn](https://www.linkedin.com/in/publio-filho-68b715a4) · [Portfolio](SEU_PORTFOLIO)
